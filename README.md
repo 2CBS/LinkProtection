@@ -12,7 +12,7 @@ LinkProtection is a Discord bot designed to automatically deletes Scam links and
 ## Installation
 
 Follow these steps to set up and run the bot:
-Or you can invite our bot: https://discord.com/oauth2/authorize?client_id=1251479549166751867
+- Or you can invite our bot: https://discord.com/oauth2/authorize?client_id=1251479549166751867
 
 ### Clone the repository
 
