@@ -49,13 +49,6 @@ Third Infraction: The user is kicked from the server.
 
 Contributions are welcome! Feel free to submit a pull request or open an issue if you have any suggestions or find a bug.
 
-## Fork the repository.
-
-Create your feature branch (git checkout -b feature/AmazingFeature).
-Commit your changes (git commit -m 'Add some AmazingFeature').
-Push to the branch (git push origin feature/AmazingFeature).
-Open a pull request.
-
 ## License
 
 This project is licensed under the AGPL License. See the LICENSE file for details.
