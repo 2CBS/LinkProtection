@@ -45,7 +45,7 @@ client.on("messageCreate", async function (message) {
   }
 
   try {
-    const response = await fetch("https://raw.githubusercontent.com/2CBS/Phisher/main/suspicious-links.json");
+    const response = await fetch("https://raw.githubusercontent.com/2CBS/LinkProtection/main/suspicious-links.json");
     const data = await response.json();
 
     for (const domain of data.domains) {
