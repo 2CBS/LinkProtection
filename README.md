@@ -51,7 +51,7 @@ Contributions are welcome! Feel free to submit a pull request or open an issue i
 
 ## License
 
-This project is licensed under the AGPL License. See the LICENSE file for details.
+This project is licensed under the AGPL License. See the `LICENSE.txt` file for details.
 
 ## Contact
 If you have any questions or need further assistance, feel free to open an issue or reach out to the project maintainer.
