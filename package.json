@@ -1,0 +1,14 @@
+{
+	"name": "antiphishing",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"discord.js": "^13.6.0",
+		"node-fetch": "^2.6.2",
+		"chalk": "4.1.0"
+	}
+}
